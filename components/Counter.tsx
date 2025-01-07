@@ -15,7 +15,7 @@ export default function Counter() {
 
     const updateTimer = () => {
       const now = new Date();
-      const difference = targetDate - now;
+      const difference = targetDate.getTime() - now.getTime();
 
       if (difference > 0) {
         const days = Math.floor(difference / (1000 * 60 * 60 * 24));

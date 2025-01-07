@@ -13,7 +13,7 @@ export default function About() {
             <h3 className="text-2xl font-semibold mb-4">The Event</h3>
             <p className="text-gray-700">
               The International Chemistry Olympiad (IChO) is an annual
-              competition for the world's most talented chemistry students at
+              competition for the world`s most talented chemistry students at
               the secondary school level. In 2026, Uzbekistan is proud to host
               this prestigious event, bringing together young minds from around
               the globe.
@@ -33,7 +33,7 @@ export default function About() {
             <p className="text-gray-700">
               Uzbekistan, with its rich history and vibrant culture, is excited
               to welcome participants to explore the intersection of ancient
-              traditions and modern scientific advancements. Our country's
+              traditions and modern scientific advancements. Our country`s
               commitment to education and innovation makes it the perfect
               backdrop for IChO 2026.
             </p>
